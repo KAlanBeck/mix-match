@@ -33,7 +33,7 @@ npm install
 ```bash
 npm start
 ```
-6. In another terminal, cd into server and run npm run server
+5. In another terminal, cd into server and run npm run server
 ```bash
 cd server
 npm run server
